@@ -1,6 +1,6 @@
 import wave
 
-obj = wave.open("preamble.wav","rb")
+obj = wave.open("gettysburg.wav","rb")
 
 #getting data
 print("channels",obj.getnchannels())
