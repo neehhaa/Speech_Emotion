@@ -2,7 +2,7 @@ import wave
 import matplotlib.pyplot as plt
 import numpy as np
 
-obj = wave.open("preamble.wav","rb")
+obj = wave.open("gettysburg.wav","rb")
 
 sample_freq = obj.getframerate()
 n_sample = obj.getnframes()
