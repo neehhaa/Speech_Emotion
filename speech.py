@@ -25,8 +25,8 @@ obj.close()
 
 #setting data
 
-obj_new = wave.open("preamble_new1812.wav","wb")
-obj_new.setnchannels(2)
+obj_new = wave.open("gettysburg2.wav","wb")
+obj_new.setnchannels(1)
 obj_new.setsampwidth(2)
 obj_new.setframerate(22050)
 obj_new.writeframes(frames)
