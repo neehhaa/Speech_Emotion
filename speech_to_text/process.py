@@ -33,3 +33,7 @@ response = requests.post(upload_endpoint,
                         data=read_file(filename))
 
 print(response.json())
+
+
+# II. TRANSCRIBE
+
