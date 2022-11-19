@@ -11,6 +11,7 @@ IV. SAVE TRANSCRIPT
 import requests
 from api_config import API_KEY_ASSEMBLYAI
 import sys
+import time
 
 
 upload_endpoint = "https://api.assemblyai.com/v2/upload"
@@ -51,6 +52,28 @@ def transcribe(audio_url):
     job_id = transcript_response.json()['id']
     return job_id
 
+
+
+# III. POLLING
+
+def poll(transcript_id):
+    polling_endpoint = transcript_endpoint + '/' + transcript_id
+    polling_response = requests.get(polling_endpoint, headers=headers)
+    return polling_response.json()
+
+def get_transcription_result_url(audio_url):
+    transcribe_id = transcribe(audio_url)
+    while True:
+        data = poll(transcribe_id)
+        if data['status'] == 'completed':
+            return data, None
+        elif data['status'] == 'error':
+            return data, data['error']
+
 audio_url = upload(filename)
-transcript_id = transcribe(audio_url)
-print(job_id)
+data,error = get_transcription_result_url(audio_url)
+
+print(data)
+            
+        # print("waiting for 30 seconds")
+        # time.sleep(30)
