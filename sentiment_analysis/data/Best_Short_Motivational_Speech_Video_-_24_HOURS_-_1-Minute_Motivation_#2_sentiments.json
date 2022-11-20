@@ -1,0 +1,242 @@
+[
+    {
+        "text": "If you only have 24 hours in a day, your success is dependent upon how you use the 24.",
+        "start": 162,
+        "end": 7475,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6353347301483154,
+        "speaker": null
+    },
+    {
+        "text": "You got to hear me.",
+        "start": 8212,
+        "end": 9052,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7189399003982544,
+        "speaker": null
+    },
+    {
+        "text": "People talk about Oprah Winfrey.",
+        "start": 9070,
+        "end": 10542,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6856493353843689,
+        "speaker": null
+    },
+    {
+        "text": "You know, Ted Turner, Warren Buffett.",
+        "start": 10602,
+        "end": 12732,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8338578939437866,
+        "speaker": null
+    },
+    {
+        "text": "Listen to me.",
+        "start": 12747,
+        "end": 13417,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.73540860414505,
+        "speaker": null
+    },
+    {
+        "text": "I don't care how much money you make.",
+        "start": 13465,
+        "end": 14962,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.502662181854248,
+        "speaker": null
+    },
+    {
+        "text": "You only get 24 hours in a day.",
+        "start": 15025,
+        "end": 16837,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7368547320365906,
+        "speaker": null
+    },
+    {
+        "text": "And the difference between Oprah and the the person that's broke is oprah uses her 24 hours wisely.",
+        "start": 16900,
+        "end": 23837,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6706379652023315,
+        "speaker": null
+    },
+    {
+        "text": "That's it.",
+        "start": 24787,
+        "end": 25447,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5321213006973267,
+        "speaker": null
+    },
+    {
+        "text": "Listen to me.",
+        "start": 25480,
+        "end": 26167,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.73540860414505,
+        "speaker": null
+    },
+    {
+        "text": "That's it.",
+        "start": 26215,
+        "end": 26677,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5321213006973267,
+        "speaker": null
+    },
+    {
+        "text": "You get 24.",
+        "start": 26695,
+        "end": 27847,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7262691855430603,
+        "speaker": null
+    },
+    {
+        "text": "I don't care if you broke.",
+        "start": 27955,
+        "end": 29292,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6319863796234131,
+        "speaker": null
+    },
+    {
+        "text": "You grew up broke.",
+        "start": 29352,
+        "end": 30342,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6987773180007935,
+        "speaker": null
+    },
+    {
+        "text": "I don't care if you grew up rich.",
+        "start": 30402,
+        "end": 31932,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4960695803165436,
+        "speaker": null
+    },
+    {
+        "text": "I don't care if you're in college.",
+        "start": 32022,
+        "end": 33457,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.505565345287323,
+        "speaker": null
+    },
+    {
+        "text": "You're not in college.",
+        "start": 33535,
+        "end": 34507,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5182453393936157,
+        "speaker": null
+    },
+    {
+        "text": "You only get 24 hours.",
+        "start": 34585,
+        "end": 36277,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.745322048664093,
+        "speaker": null
+    },
+    {
+        "text": "And I blew up.",
+        "start": 36370,
+        "end": 37837,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6011127829551697,
+        "speaker": null
+    },
+    {
+        "text": "Literally.",
+        "start": 37900,
+        "end": 38607,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6491853594779968,
+        "speaker": null
+    },
+    {
+        "text": "I went from being a high school dropout to selling 60 books in less than six months.",
+        "start": 38772,
+        "end": 44047,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5966954231262207,
+        "speaker": null
+    },
+    {
+        "text": "What happened in my 24 hours?",
+        "start": 44080,
+        "end": 46100,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6658318638801575,
+        "speaker": null
+    },
+    {
+        "text": "I was like, okay, Eric, you got to get a grip on your 24 hours, because you bought to be broke for the rest of your life.",
+        "start": 46462,
+        "end": 51037,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6659592390060425,
+        "speaker": null
+    },
+    {
+        "text": "And it's all I need you to do for me.",
+        "start": 51100,
+        "end": 52717,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5811333060264587,
+        "speaker": null
+    },
+    {
+        "text": "I can tell you all about your life if you just write down your 24.",
+        "start": 52765,
+        "end": 56227,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7499468922615051,
+        "speaker": null
+    },
+    {
+        "text": "Why I schedule for me.",
+        "start": 56245,
+        "end": 57082,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7258531451225281,
+        "speaker": null
+    },
+    {
+        "text": "You let me look at it.",
+        "start": 57085,
+        "end": 57877,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7623221278190613,
+        "speaker": null
+    },
+    {
+        "text": "I can tell you where you're going to be in five years.",
+        "start": 57895,
+        "end": 59422,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6884279847145081,
+        "speaker": null
+    },
+    {
+        "text": "I can tell you where you're going to be in ten years.",
+        "start": 59455,
+        "end": 60847,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.692081868648529,
+        "speaker": null
+    },
+    {
+        "text": "I can tell you where you're going to be in 20 years if you keep that schedule.",
+        "start": 60880,
+        "end": 63087,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.712135910987854,
+        "speaker": null
+    }
+]
